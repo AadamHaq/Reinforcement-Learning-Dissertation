@@ -3,3 +3,4 @@ Choose one of the agents.
   - agent_gif.py saves gifs.
     
 Change the imports for the desired game and helper.
+Hyperparameters epsilon and gamma may be altered.
