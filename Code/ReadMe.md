@@ -15,7 +15,7 @@ The 'graph' folder will give two different images such as those below:
 
 Meanwhile the 'games' folder will give as below:
 
-<img src="Example/10.gif" alt="alt text" width="350"> <img src="Example/50.gif" alt="alt text" width="350"> <img src="Example/140.gif" alt="alt text" width="350">
+<img src="Example/10.gif" alt="alt text" width="300"> <img src="Example/50.gif" alt="alt text" width="300"> <img src="Example/140.gif" alt="alt text" width="300">
 
 The four files do as expected. The Agent is our main file and is the file that must be run. The Game is the base game of Snake, adapted for the Agent with rewards in built. The helper is for plotting graphs and storing videos. The Model contains the heart of the Agent, the Q-Algorithm and the Neural Network.
 
