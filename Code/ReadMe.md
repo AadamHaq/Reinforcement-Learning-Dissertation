@@ -4,6 +4,7 @@ There are four file types that must be loaded:
   - Game
   - Helper
   - Model
+    
 There is also an ariel font that must be in the same folder for the game display.
 When running, there should be folders named 'games' and 'graph' in which every 10 games will be saved as a gif, and the final graph(s) will be saved.
 
@@ -12,9 +13,11 @@ The four files do as expected. The Agent is our main file and is the file that m
 The Q-Algorithm is as follows:
 
   Given a predicted Q-Value based on the previous step, we calculate the next Q-values using:
+  
     ![equation](https://latex.codecogs.com/svg.image?%20Q_%7Bnew%7D=r&plus;%5Cgamma%5Ccdot%20Q_%7B%5Ctext%7Bpred%7D%7D(S'))
-  At each step, we execute the action with the highest new Q-Value. 
+  Where ![equation](https://latex.codecogs.com/svg.image?S') represents the next state. At each step, we execute the action with the highest new Q-Value. 
   The weights and biases are then according to the mean squared error loss function defined by:
+  
     ![equation](https://latex.codecogs.com/svg.image?%5Cmathcal%7BL%7D=(Q_%7B%5Ctext%7Bnew%7D%7D-Q_%7B%5Ctext%7Bpred%7D%7D)%5E2)
   Using this loss function, the neural network is updated using back propagation using gradient descent methods.
 
