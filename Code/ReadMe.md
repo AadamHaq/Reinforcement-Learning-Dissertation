@@ -9,9 +9,13 @@ There are four file types that must be loaded:
 There is also an ariel font that must be in the same folder for the game display.
 When running, there should be folders named 'games' and 'graph' in which every 10 games will be saved as a gif, and the final graph(s) will be saved.
 
-The 'games' folder will give two different images such as those below:
+The 'graph' folder will give two different images such as those below:
 
 ![alt text](Example/mean_scores_plot.png) ![alt text](Example/scores_plot.png)
+
+Meanwhile the 'games' folder will give as below:
+
+![alt text](Example/10.gif) ![alt text](Example/50.gif) ![alt text](Example/140.gif)
 
 The four files do as expected. The Agent is our main file and is the file that must be run. The Game is the base game of Snake, adapted for the Agent with rewards in built. The helper is for plotting graphs and storing videos. The Model contains the heart of the Agent, the Q-Algorithm and the Neural Network.
 
