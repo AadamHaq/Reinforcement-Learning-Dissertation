@@ -11,15 +11,17 @@ When running, there should be folders named 'games' and 'graph' in which every 1
 
 The 'graph' folder will give two different images such as those below:
 
-<figure>
-  <img src="Example/mean_scores_plot.png" alt="Mean Scores Plot" width="400">
-  <figcaption>Mean Scores Plot</figcaption>
-</figure>
+<div style="display: inline-block; text-align: center;">
+  <div style="display: inline-block;">
+    <img src="Example/mean_scores_plot.png" alt="Mean Scores Plot" width="400">
+    <div><em>Mean Scores Plot</em></div>
+  </div>
+  <div style="display: inline-block;">
+    <img src="Example/scores_plot.png" alt="Scores Plot" width="400">
+    <div><em>Scores Plot</em></div>
+  </div>
+</div>
 
-<figure>
-  <img src="Example/scores_plot.png" alt="Scores Plot" width="400">
-  <figcaption>Scores Plot</figcaption>
-</figure>
 
 Meanwhile the 'games' folder will give as below:
 
