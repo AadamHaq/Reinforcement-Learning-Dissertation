@@ -25,7 +25,7 @@ The Q-Algorithm is as follows:
   Using this loss function, the neural network is updated using back propagation using gradient descent methods.
 
 When saving all of the files in a location, the code is run by loading the terminal (I used the anaconda terminal) and ensuring all the packages are installed (NumPy, Matplotlib, Pygame and Pytorch are the main ones). A quick runthrough is:
-  - Load the folder by using `cd directory`
+  - Load the folder by using `cd [insert directory]`
   - Activate the pygame environment using `conda activate pygame_env`
   - Run the code by using `python agent.py`
 
