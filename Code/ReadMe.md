@@ -11,7 +11,7 @@ When running, there should be folders named 'games' and 'graph' in which every 1
 
 The 'graph' folder will give two different images such as those below:
 
-![alt text](Example/mean_scores_plot.png) ![alt text](Example/scores_plot.png)
+<img src="Example/mean_scores_plot.png" alt="alt text" width="300"> <img src="Example/scores_plot.png" alt="alt text" width="300">
 
 Meanwhile the 'games' folder will give as below:
 
