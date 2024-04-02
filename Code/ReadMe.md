@@ -1,3 +1,4 @@
+# Code
 The code for the Snake Game can be found here.
 There are four file types that must be loaded:
   - Agent
@@ -22,6 +23,12 @@ The Q-Algorithm is as follows:
   ![equation](https://latex.codecogs.com/svg.image?%5Cmathcal%7BL%7D=(Q_%7B%5Ctext%7Bnew%7D%7D-Q_%7B%5Ctext%7Bpred%7D%7D)%5E2)
   
   Using this loss function, the neural network is updated using back propagation using gradient descent methods.
+
+When saving all of the files in a location, the code is run by loading the terminal (I used the anaconda terminal) and ensuring all the packages are installed (NumPy, Matplotlib, Pygame and Pytorch are the main ones). A quick runthrough is:
+  - Load the folder by using `cd directory`
+  - Activate the pygame environment using `conda activate pygame_env`
+  - Run the code by using `python agent.py`
+
 
 The original article that assisted can be found [here](https://medium.com/@nancy.q.zhou/teaching-an-ai-to-play-the-snake-game-using-reinforcement-learning-6d2a6e8f3b1c) although, I believe this is based on a YouTube video that can be found [here](https://www.youtube.com/watch?v=L8ypSXwyBds&t=1010s) as credited in the initial article.
 
