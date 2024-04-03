@@ -18,4 +18,4 @@ As the title says, the main dissertation is broken into two sections: The Mathem
 
 ## Acknowledgements
 
-
+I would like to thank the module organisers, Professor Charlie Elliott and Dr Ed Hill for supporting and giving guideance during the module. Additionally I would like to thank my tutor, Dr Vedran Sohinger, for offering feedback of the overall work and checking how I progressed. Moreover, I would like to thank Dr Martin Lotz and Professor Magnus Richardson for kindly meeting me during the planning phases and offering book suggestions and where to look for more information.
