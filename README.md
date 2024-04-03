@@ -10,4 +10,12 @@ The main aspects of the Maths in Action Project are:
   - A [Presentation](Dissertation/Presentation%20(PDF).pdf)
 
 The [code](Code) was done additionally in Python as supplementary material for the above. 
-As the title says, the main dissertation is broken into two sections: The Mathematics of Reinforcement Learning and its Applications. 
+As the title says, the main dissertation is broken into two sections: The Mathematics of Reinforcement Learning and its Applications. In particular, we will focus on Deep Q Learning models, with a worked application of the Snake Game.
+
+<img src="Example/140.gif" alt="alt text" width="300">
+
+---
+
+## Acknowledgements
+
+
