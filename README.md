@@ -12,7 +12,7 @@ The main aspects of the Maths in Action Project are:
 The [code](Code) was done additionally in Python as supplementary material for the above. 
 As the title says, the main dissertation is broken into two sections: The Mathematics of Reinforcement Learning and its Applications. In particular, we will focus on Deep Q Learning models, with a worked application of the Snake Game.
 
-<img src="Example/140.gif" alt="alt text" width="300">
+<img src="Code/Example/140.gif" alt="alt text" width="300">
 
 ---
 
