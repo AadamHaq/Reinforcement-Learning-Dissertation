@@ -19,3 +19,7 @@ As the title says, the main dissertation is broken into two sections: The Mathem
 ## Acknowledgements
 
 I would like to thank the module organisers, Professor Charlie Elliott and Dr Ed Hill for supporting and giving guideance during the module. Additionally I would like to thank my tutor, Dr Vedran Sohinger, for offering feedback of the overall work and checking how I progressed. Moreover, I would like to thank Dr Martin Lotz and Professor Magnus Richardson for kindly meeting me during the planning phases and offering book suggestions and where to look for more information.
+
+I wish to express my gratitude to my family and friends, who constantly encouraged me through the process, listened through and gave feedback through practice presentations, and providing invaluable feedback and guidance on my dissertation.
+
+In planning this project, I drew inspiration from the content and insightful commentary of several influential YouTubers whose work led me to pick this particular topic. In particular, the YouTubers 'AI Tango', 'CodeNoodles' and 'AI Warehouse' showed me the capability of AI and Machine Learning within a Video Game environment and motivated me to learn more about the topic and attempt to code my own AI. Specifically 'AI Tango' aided me by suggesting books to read and pointed me to more YouTube channels whom he was inspired by.
